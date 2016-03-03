@@ -1,0 +1,2519 @@
+{
+ "name": "Majors",
+"children": [
+ {
+ "name": "AG NAT RES",
+"children": [
+ {
+ "name": "BA",
+"children": [
+ {
+ "name": "INT DESIGN",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "BLA",
+"children": [
+ {
+ "name": "LANDSCAPE",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "BS",
+"children": [
+ {
+ "name": "AFNRE",
+"size":   1000 
+},
+{
+ "name": "AGRIB MGT",
+"size":   1000 
+},
+{
+ "name": "ANIMAL SCI",
+"size":   1000 
+},
+{
+ "name": "CONST MGT",
+"size":   1000 
+},
+{
+ "name": "CRP&SL 2",
+"size":   1000 
+},
+{
+ "name": "CRP&SL SCI",
+"size":   1000 
+},
+{
+ "name": "DIETETICS",
+"size":   1000 
+},
+{
+ "name": "E S & SUST",
+"size":   1000 
+},
+{
+ "name": "EN EC MGT",
+"size":   1000 
+},
+{
+ "name": "ENTOMOLOGY",
+"size":   1000 
+},
+{
+ "name": "FISH&WLDLF",
+"size":   1000 
+},
+{
+ "name": "FOOD I MGT",
+"size":   1000 
+},
+{
+ "name": "FOOD SCI",
+"size":   1000 
+},
+{
+ "name": "FORESTRY",
+"size":   1000 
+},
+{
+ "name": "HORTICULT",
+"size":   1000 
+},
+{
+ "name": "NUTRI SCI",
+"size":   1000 
+},
+{
+ "name": "PACKAGING",
+"size":   1000 
+},
+{
+ "name": "SUSTAIN PK",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MA",
+"children": [
+ {
+ "name": "ENVIR DSGN",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MS",
+"children": [
+ {
+ "name": "AFR ECON",
+"size":   1000 
+},
+{
+ "name": "ANIMAL SCI",
+"size":   1000 
+},
+{
+ "name": "BIO EGR",
+"size":   1000 
+},
+{
+ "name": "CMTY SUST",
+"size":   1000 
+},
+{
+ "name": "CONST MGT",
+"size":   1000 
+},
+{
+ "name": "CRP SO SCI",
+"size":   1000 
+},
+{
+ "name": "ENTOMOLOGY",
+"size":   1000 
+},
+{
+ "name": "FOOD SCI",
+"size":   1000 
+},
+{
+ "name": "FOOD SCI-K",
+"size":   1000 
+},
+{
+ "name": "FORESTRY",
+"size":   1000 
+},
+{
+ "name": "FSH&WLDLFE",
+"size":   1000 
+},
+{
+ "name": "HORTICULT",
+"size":   1000 
+},
+{
+ "name": "HUMAN N",
+"size":   1000 
+},
+{
+ "name": "PACKAGING",
+"size":   1000 
+},
+{
+ "name": "PB G&B-CSS",
+"size":   1000 
+},
+{
+ "name": "PB G&B-FOR",
+"size":   1000 
+},
+{
+ "name": "PB G&B-HRT",
+"size":   1000 
+},
+{
+ "name": "PB G&B-PLB",
+"size":   1000 
+},
+{
+ "name": "PKG NET P",
+"size":   1000 
+},
+{
+ "name": "PLANT PATH",
+"size":   1000 
+},
+{
+ "name": "S TOURISM",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "PHD",
+"children": [
+ {
+ "name": "AFR ECON",
+"size":   1000 
+},
+{
+ "name": "AN SC-E TX",
+"size":   1000 
+},
+{
+ "name": "ANIMAL SCI",
+"size":   1000 
+},
+{
+ "name": "BIO EGR",
+"size":   1000 
+},
+{
+ "name": "C&S S-E TX",
+"size":   1000 
+},
+{
+ "name": "CMTY SUST",
+"size":   1000 
+},
+{
+ "name": "CRP SO SCI",
+"size":   1000 
+},
+{
+ "name": "ENTOMOLOGY",
+"size":   1000 
+},
+{
+ "name": "F&W-EN TOX",
+"size":   1000 
+},
+{
+ "name": "FD SC-E TX",
+"size":   1000 
+},
+{
+ "name": "FOOD SCI",
+"size":   1000 
+},
+{
+ "name": "FOOD SCI-K",
+"size":   1000 
+},
+{
+ "name": "FOR-EN TOX",
+"size":   1000 
+},
+{
+ "name": "FORESTRY",
+"size":   1000 
+},
+{
+ "name": "FSH&WLDLFE",
+"size":   1000 
+},
+{
+ "name": "H N-EN TOX",
+"size":   1000 
+},
+{
+ "name": "HORTICULT",
+"size":   1000 
+},
+{
+ "name": "HUMAN N",
+"size":   1000 
+},
+{
+ "name": "PACKAGING",
+"size":   1000 
+},
+{
+ "name": "PB G&B-CSS",
+"size":   1000 
+},
+{
+ "name": "PB G&B-FOR",
+"size":   1000 
+},
+{
+ "name": "PB G&B-HRT",
+"size":   1000 
+},
+{
+ "name": "PB G&B-PLB",
+"size":   1000 
+},
+{
+ "name": "PLAN DSGN",
+"size":   1000 
+},
+{
+ "name": "PLANT PATH",
+"size":   1000 
+},
+{
+ "name": "S TOURISM",
+"size":   1000 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "ARTS & LET",
+"children": [
+ {
+ "name": "BA",
+"children": [
+ {
+ "name": "APPRL&TEXT",
+"size":   1000 
+},
+{
+ "name": "ARABIC",
+"size":   1000 
+},
+{
+ "name": "ART HST VI",
+"size":   1000 
+},
+{
+ "name": "CHINESE",
+"size":   1000 
+},
+{
+ "name": "ENGLISH",
+"size":   1000 
+},
+{
+ "name": "EXP ARCH",
+"size":   1000 
+},
+{
+ "name": "FILM STDYS",
+"size":   1000 
+},
+{
+ "name": "FRENCH",
+"size":   1000 
+},
+{
+ "name": "GERMAN",
+"size":   1000 
+},
+{
+ "name": "GLBL STDYS",
+"size":   1000 
+},
+{
+ "name": "HUM-PRELAW",
+"size":   1000 
+},
+{
+ "name": "INTRDC HUM",
+"size":   1000 
+},
+{
+ "name": "JAPANESE",
+"size":   1000 
+},
+{
+ "name": "LINGUISTIC",
+"size":   1000 
+},
+{
+ "name": "PHILOSOPHY",
+"size":   1000 
+},
+{
+ "name": "PRO WRITNG",
+"size":   1000 
+},
+{
+ "name": "RELG STDY",
+"size":   1000 
+},
+{
+ "name": "RUSSIAN",
+"size":   1000 
+},
+{
+ "name": "SPANISH",
+"size":   1000 
+},
+{
+ "name": "STUDIO ART",
+"size":   1000 
+},
+{
+ "name": "THEATRE",
+"size":   1000 
+},
+{
+ "name": "WOMEN GEND",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "BFA",
+"children": [
+ {
+ "name": "A TXT DSGN",
+"size":   1000 
+},
+{
+ "name": "ART EDUC",
+"size":   1000 
+},
+{
+ "name": "STUDIO ART",
+"size":   1000 
+},
+{
+ "name": "THEATRE",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MA",
+"children": [
+ {
+ "name": "AFR AM STD",
+"size":   1000 
+},
+{
+ "name": "AP SPN LIN",
+"size":   1000 
+},
+{
+ "name": "ARTS&MGT",
+"size":   1000 
+},
+{
+ "name": "CRIT STDY",
+"size":   1000 
+},
+{
+ "name": "DIGTL WRIT",
+"size":   1000 
+},
+{
+ "name": "FOREIGN L",
+"size":   1000 
+},
+{
+ "name": "FRENCH",
+"size":   1000 
+},
+{
+ "name": "GRM STDY",
+"size":   1000 
+},
+{
+ "name": "HISP LIT",
+"size":   1000 
+},
+{
+ "name": "LINGUISTIC",
+"size":   1000 
+},
+{
+ "name": "LIT IN ENG",
+"size":   1000 
+},
+{
+ "name": "PHILOSOPHY",
+"size":   1000 
+},
+{
+ "name": "T ENG SOL",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MFA",
+"children": [
+ {
+ "name": "STUDIO ART",
+"size":   1000 
+},
+{
+ "name": "THEATRE",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "PHD",
+"children": [
+ {
+ "name": "AFR AM STD",
+"size":   1000 
+},
+{
+ "name": "ENGLISH",
+"size":   1000 
+},
+{
+ "name": "FRN LG&LIT",
+"size":   1000 
+},
+{
+ "name": "GRM STDY",
+"size":   1000 
+},
+{
+ "name": "HISPANIC S",
+"size":   1000 
+},
+{
+ "name": "LINGUISTIC",
+"size":   1000 
+},
+{
+ "name": "PHILOSOPHY",
+"size":   1000 
+},
+{
+ "name": "RHETORIC W",
+"size":   1000 
+},
+{
+ "name": "SECOND LNG",
+"size":   1000 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "BRIGGS CLG",
+"children": [
+ {
+ "name": "BS",
+"children": [
+ {
+ "name": "BIOLOGY FC",
+"size":   1000 
+},
+{
+ "name": "CMPTR S FC",
+"size":   1000 
+},
+{
+ "name": "EARTH S FC",
+"size":   1000 
+},
+{
+ "name": "ENV SCI FC",
+"size":   1000 
+},
+{
+ "name": "HST PHL FC",
+"size":   1000 
+},
+{
+ "name": "LB ACT SCI",
+"size":   1000 
+},
+{
+ "name": "LB ANML SC",
+"size":   1000 
+},
+{
+ "name": "LB ASTRO",
+"size":   1000 
+},
+{
+ "name": "LB BIO LAB",
+"size":   1000 
+},
+{
+ "name": "LB BIO SCI",
+"size":   1000 
+},
+{
+ "name": "LB BIOCHEM",
+"size":   1000 
+},
+{
+ "name": "LB BIOTECH",
+"size":   1000 
+},
+{
+ "name": "LB CEM PHY",
+"size":   1000 
+},
+{
+ "name": "LB CHEM",
+"size":   1000 
+},
+{
+ "name": "LB CMP MTH",
+"size":   1000 
+},
+{
+ "name": "LB CMPTR S",
+"size":   1000 
+},
+{
+ "name": "LB DIAGNOS",
+"size":   1000 
+},
+{
+ "name": "LB E GSCI",
+"size":   1000 
+},
+{
+ "name": "LB EARTH S",
+"size":   1000 
+},
+{
+ "name": "LB EN B/MI",
+"size":   1000 
+},
+{
+ "name": "LB EN B/PL",
+"size":   1000 
+},
+{
+ "name": "LB EN B/ZO",
+"size":   1000 
+},
+{
+ "name": "LB ENTOMOL",
+"size":   1000 
+},
+{
+ "name": "LB FD SCI",
+"size":   1000 
+},
+{
+ "name": "LB FW",
+"size":   1000 
+},
+{
+ "name": "LB GEONOM",
+"size":   1000 
+},
+{
+ "name": "LB GLG SCI",
+"size":   1000 
+},
+{
+ "name": "LB HUMAN B",
+"size":   1000 
+},
+{
+ "name": "LB MATH",
+"size":   1000 
+},
+{
+ "name": "LB MICROB",
+"size":   1000 
+},
+{
+ "name": "LB MTH ADV",
+"size":   1000 
+},
+{
+ "name": "LB NEUROSC",
+"size":   1000 
+},
+{
+ "name": "LB NUTR SC",
+"size":   1000 
+},
+{
+ "name": "LB PHY S I",
+"size":   1000 
+},
+{
+ "name": "LB PHYSICS",
+"size":   1000 
+},
+{
+ "name": "LB PHYSIOL",
+"size":   1000 
+},
+{
+ "name": "LB PLANT B",
+"size":   1000 
+},
+{
+ "name": "LB STATIST",
+"size":   1000 
+},
+{
+ "name": "LB ZOOLOGY",
+"size":   1000 
+},
+{
+ "name": "PHY SCI FC",
+"size":   1000 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "BUSINESS",
+"children": [
+ {
+ "name": "BA",
+"children": [
+ {
+ "name": "ACCOUNTING",
+"size":   1000 
+},
+{
+ "name": "FINANCE",
+"size":   1000 
+},
+{
+ "name": "HOSPTL BUS",
+"size":   1000 
+},
+{
+ "name": "HUM RES MG",
+"size":   1000 
+},
+{
+ "name": "MANAGEMENT",
+"size":   1000 
+},
+{
+ "name": "MARKETING",
+"size":   1000 
+},
+{
+ "name": "SPLY C MGT",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MBA",
+"children": [
+ {
+ "name": "BUS ADM EL",
+"size":   1000 
+},
+{
+ "name": "BUS ADMIN",
+"size":   1000 
+},
+{
+ "name": "CORP MBA",
+"size":   1000 
+},
+{
+ "name": "INTR MGT",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MS",
+"children": [
+ {
+ "name": "ACCOUNTING",
+"size":   1000 
+},
+{
+ "name": "B ANALYTIC",
+"size":   1000 
+},
+{
+ "name": "BUS RESRCH",
+"size":   1000 
+},
+{
+ "name": "FINANCE",
+"size":   1000 
+},
+{
+ "name": "FOOD BUS",
+"size":   1000 
+},
+{
+ "name": "H BUS MGT",
+"size":   1000 
+},
+{
+ "name": "MGT LDRSHP",
+"size":   1000 
+},
+{
+ "name": "MKT RESCH",
+"size":   1000 
+},
+{
+ "name": "SPLY C M31",
+"size":   1000 
+},
+{
+ "name": "SPLY C MGT",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "PHD",
+"children": [
+ {
+ "name": "ACCOUNTING",
+"size":   1000 
+},
+{
+ "name": "BUS INFO S",
+"size":   1000 
+},
+{
+ "name": "FINANCE",
+"size":   1000 
+},
+{
+ "name": "LOGISTICS",
+"size":   1000 
+},
+{
+ "name": "MARKETING",
+"size":   1000 
+},
+{
+ "name": "OP&SRC MGT",
+"size":   1000 
+},
+{
+ "name": "ORG BEH-HR",
+"size":   1000 
+},
+{
+ "name": "STRAT MGT",
+"size":   1000 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "COMM ARTS",
+"children": [
+ {
+ "name": "BA",
+"children": [
+ {
+ "name": "ADVERTISNG",
+"size":   1000 
+},
+{
+ "name": "COMMUNICAT",
+"size":   1000 
+},
+{
+ "name": "JOURNALISM",
+"size":   1000 
+},
+{
+ "name": "MEDIA INFO",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "BS",
+"children": [
+ {
+ "name": "MEDIA INFO",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MA",
+"children": [
+ {
+ "name": "ADVERTISNG",
+"size":   1000 
+},
+{
+ "name": "COMM SCI D",
+"size":   1000 
+},
+{
+ "name": "COMMUNICAT",
+"size":   1000 
+},
+{
+ "name": "HLTH RISK",
+"size":   1000 
+},
+{
+ "name": "JOURNALISM",
+"size":   1000 
+},
+{
+ "name": "MEDIA INFO",
+"size":   1000 
+},
+{
+ "name": "PUBL RLTNS",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "PHD",
+"children": [
+ {
+ "name": "COMM SCI D",
+"size":   1000 
+},
+{
+ "name": "COMMUNICAT",
+"size":   1000 
+},
+{
+ "name": "M INFO S",
+"size":   1000 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "EDUCATION",
+"children": [
+ {
+ "name": "BA",
+"children": [
+ {
+ "name": "EDUCATION",
+"size":   1000 
+},
+{
+ "name": "SP ED-L D",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "BS",
+"children": [
+ {
+ "name": "ATHL TRAIN",
+"size":   1000 
+},
+{
+ "name": "KINESIOL",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "ED.D",
+"children": [
+ {
+ "name": "ED LEADER",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "EDS",
+"children": [
+ {
+ "name": "SCHL PSYCH",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MA",
+"children": [
+ {
+ "name": "ED TECH-2",
+"size":   1000 
+},
+{
+ "name": "ED TECHNOL",
+"size":   1000 
+},
+{
+ "name": "EDUCATION",
+"size":   1000 
+},
+{
+ "name": "HIGH&ADULT",
+"size":   1000 
+},
+{
+ "name": "HIGHER ED2",
+"size":   1000 
+},
+{
+ "name": "K-12 ED AD",
+"size":   1000 
+},
+{
+ "name": "REHAB COUN",
+"size":   1000 
+},
+{
+ "name": "SCHL PSY",
+"size":   1000 
+},
+{
+ "name": "SPECL ED 2",
+"size":   1000 
+},
+{
+ "name": "SPECL EDUC",
+"size":   1000 
+},
+{
+ "name": "STDNT AFFS",
+"size":   1000 
+},
+{
+ "name": "TCH/CURR2",
+"size":   1000 
+},
+{
+ "name": "TEACH&CURR",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MS",
+"children": [
+ {
+ "name": "KINESIOL",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "PHD",
+"children": [
+ {
+ "name": "C INST TE",
+"size":   1000 
+},
+{
+ "name": "E PSY ED 2",
+"size":   1000 
+},
+{
+ "name": "E PSY ED T",
+"size":   1000 
+},
+{
+ "name": "ED POLICY",
+"size":   1000 
+},
+{
+ "name": "HIGH&ADULT",
+"size":   1000 
+},
+{
+ "name": "K-12 ED AD",
+"size":   1000 
+},
+{
+ "name": "KINESIOL",
+"size":   1000 
+},
+{
+ "name": "M&Q METHOD",
+"size":   1000 
+},
+{
+ "name": "RHB CNS ED",
+"size":   1000 
+},
+{
+ "name": "SCHL PSY",
+"size":   1000 
+},
+{
+ "name": "SPECL EDUC",
+"size":   1000 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "ENGINERING",
+"children": [
+ {
+ "name": "BS",
+"children": [
+ {
+ "name": "APL ENGR S",
+"size":   1000 
+},
+{
+ "name": "BIO EGR",
+"size":   1000 
+},
+{
+ "name": "CHEM EGR",
+"size":   1000 
+},
+{
+ "name": "CIVIL EGR",
+"size":   1000 
+},
+{
+ "name": "CMPTR EGR",
+"size":   1000 
+},
+{
+ "name": "CMPTR SCI",
+"size":   1000 
+},
+{
+ "name": "ELECTR EGR",
+"size":   1000 
+},
+{
+ "name": "ENVR ENGR",
+"size":   1000 
+},
+{
+ "name": "MAT SCI EG",
+"size":   1000 
+},
+{
+ "name": "MECH EGR",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MS",
+"children": [
+ {
+ "name": "CHEM EGR",
+"size":   1000 
+},
+{
+ "name": "CIVIL EGR",
+"size":   1000 
+},
+{
+ "name": "CMPTR SCI",
+"size":   1000 
+},
+{
+ "name": "EGR MECH",
+"size":   1000 
+},
+{
+ "name": "ELECTR EGR",
+"size":   1000 
+},
+{
+ "name": "ENVIR EGR",
+"size":   1000 
+},
+{
+ "name": "MAT SCI EG",
+"size":   1000 
+},
+{
+ "name": "MECH EGR",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "PHD",
+"children": [
+ {
+ "name": "CHEM EGR",
+"size":   1000 
+},
+{
+ "name": "CIVIL EGR",
+"size":   1000 
+},
+{
+ "name": "CMPTR SCI",
+"size":   1000 
+},
+{
+ "name": "EGR MECH",
+"size":   1000 
+},
+{
+ "name": "ELECTR EGR",
+"size":   1000 
+},
+{
+ "name": "ENVIR EGR",
+"size":   1000 
+},
+{
+ "name": "MAT SCI EG",
+"size":   1000 
+},
+{
+ "name": "MECH EGR",
+"size":   1000 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "HUMAN MED",
+"children": [
+ {
+ "name": "MD",
+"children": [
+ {
+ "name": "H MED-ECP",
+"size":   1000 
+},
+{
+ "name": "H MED-MSTP",
+"size":   1000 
+},
+{
+ "name": "HUMAN MED",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MPH",
+"children": [
+ {
+ "name": "PUBLIC HLH",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MS",
+"children": [
+ {
+ "name": "BIOSTAT",
+"size":   1000 
+},
+{
+ "name": "BMB",
+"size":   1000 
+},
+{
+ "name": "EPIDEMIOL",
+"size":   1000 
+},
+{
+ "name": "INTEG PHRM",
+"size":   1000 
+},
+{
+ "name": "L RES PHM",
+"size":   1000 
+},
+{
+ "name": "MICROBIOL",
+"size":   1000 
+},
+{
+ "name": "PHRM & TOX",
+"size":   1000 
+},
+{
+ "name": "PHYSIOLOGY",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "PHD",
+"children": [
+ {
+ "name": "BMB",
+"size":   1000 
+},
+{
+ "name": "EPIDEMIOL",
+"size":   1000 
+},
+{
+ "name": "MMG",
+"size":   1000 
+},
+{
+ "name": "PHRM & TOX",
+"size":   1000 
+},
+{
+ "name": "PHYSIOLOGY",
+"size":   1000 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "J MADISON",
+"children": [
+ {
+ "name": "BA",
+"children": [
+ {
+ "name": "C CULTURES",
+"size":   1000 
+},
+{
+ "name": "INTL REL",
+"size":   1000 
+},
+{
+ "name": "POL THEORY",
+"size":   1000 
+},
+{
+ "name": "S REL PLCY",
+"size":   1000 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "MSU LAW",
+"children": [
+ {
+ "name": "JD",
+"children": [
+ {
+ "name": "LAW FT",
+"size":   1000 
+},
+{
+ "name": "LAW PT",
+"size":   1000 
+},
+{
+ "name": "LW OTT PRG",
+"size":   1000 
+},
+{
+ "name": "SPECL ADMT",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "LLM",
+"children": [
+ {
+ "name": "AM LGL SYS",
+"size":   1000 
+},
+{
+ "name": "GLBL FOOD",
+"size":   1000 
+},
+{
+ "name": "INTEL PROP",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MJ",
+"children": [
+ {
+ "name": "AM LGL SYS",
+"size":   1000 
+},
+{
+ "name": "GLBL FOOD",
+"size":   1000 
+},
+{
+ "name": "INTEL PROP",
+"size":   1000 
+},
+{
+ "name": "LGL DOCT",
+"size":   1000 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "MUSIC",
+"children": [
+ {
+ "name": "BA",
+"children": [
+ {
+ "name": "MUSIC",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "BMUS",
+"children": [
+ {
+ "name": "COMP",
+"size":   1000 
+},
+{
+ "name": "JAZZ STDY",
+"size":   1000 
+},
+{
+ "name": "MUSIC ED",
+"size":   1000 
+},
+{
+ "name": "MUSIC PERF",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "DMA",
+"children": [
+ {
+ "name": "MUS CONDUC",
+"size":   1000 
+},
+{
+ "name": "MUSIC COMP",
+"size":   1000 
+},
+{
+ "name": "MUSIC PERF",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MA",
+"children": [
+ {
+ "name": "MUSICOLOGY",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MMUS",
+"children": [
+ {
+ "name": "COLL PIANO",
+"size":   1000 
+},
+{
+ "name": "JAZZ STDYS",
+"size":   1000 
+},
+{
+ "name": "MUS CONDUC",
+"size":   1000 
+},
+{
+ "name": "MUSIC COMP",
+"size":   1000 
+},
+{
+ "name": "MUSIC EDUC",
+"size":   1000 
+},
+{
+ "name": "MUSIC PERF",
+"size":   1000 
+},
+{
+ "name": "MUSIC THRY",
+"size":   1000 
+},
+{
+ "name": "PIANO PED",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "PHD",
+"children": [
+ {
+ "name": "MUSIC EDUC",
+"size":   1000 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "NATURAL SC",
+"children": [
+ {
+ "name": "BA",
+"children": [
+ {
+ "name": "CHEMISTRY",
+"size":   1000 
+},
+{
+ "name": "COMPTL MTH",
+"size":   1000 
+},
+{
+ "name": "MATHEMATIC",
+"size":   1000 
+},
+{
+ "name": "MTH ADVNC",
+"size":   1000 
+},
+{
+ "name": "PHYSICS",
+"size":   1000 
+},
+{
+ "name": "STATISTICS",
+"size":   1000 
+},
+{
+ "name": "ZOOLOGY",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "BS",
+"children": [
+ {
+ "name": "ACTUARIAL",
+"size":   1000 
+},
+{
+ "name": "ASTROPHYS",
+"size":   1000 
+},
+{
+ "name": "BCH/BMB/BT",
+"size":   1000 
+},
+{
+ "name": "BIO LAB SC",
+"size":   1000 
+},
+{
+ "name": "BIO SC-INT",
+"size":   1000 
+},
+{
+ "name": "BMB",
+"size":   1000 
+},
+{
+ "name": "CHEM PHYS",
+"size":   1000 
+},
+{
+ "name": "CHEMISTRY",
+"size":   1000 
+},
+{
+ "name": "CL LAB SCI",
+"size":   1000 
+},
+{
+ "name": "COMPTL MTH",
+"size":   1000 
+},
+{
+ "name": "EARTH SCI",
+"size":   1000 
+},
+{
+ "name": "EN BIO/MIC",
+"size":   1000 
+},
+{
+ "name": "EN BIO/ZOL",
+"size":   1000 
+},
+{
+ "name": "ENVIR GEOS",
+"size":   1000 
+},
+{
+ "name": "ENVR B/PLT",
+"size":   1000 
+},
+{
+ "name": "GENOMICS",
+"size":   1000 
+},
+{
+ "name": "GEOLOG SCI",
+"size":   1000 
+},
+{
+ "name": "HUMAN BIOL",
+"size":   1000 
+},
+{
+ "name": "MATHEMATIC",
+"size":   1000 
+},
+{
+ "name": "MICROBIOL",
+"size":   1000 
+},
+{
+ "name": "MTH ADVNC",
+"size":   1000 
+},
+{
+ "name": "NEUROSCI",
+"size":   1000 
+},
+{
+ "name": "PHYSCL SCI",
+"size":   1000 
+},
+{
+ "name": "PHYSICS",
+"size":   1000 
+},
+{
+ "name": "PHYSIOLOGY",
+"size":   1000 
+},
+{
+ "name": "PLANT BIOL",
+"size":   1000 
+},
+{
+ "name": "STATISTICS",
+"size":   1000 
+},
+{
+ "name": "ZOOLOGY",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MA",
+"children": [
+ {
+ "name": "BIO LAB SC",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MAT",
+"children": [
+ {
+ "name": "MATHEMATIC",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MS",
+"children": [
+ {
+ "name": "APPLD MATH",
+"size":   1000 
+},
+{
+ "name": "APPLD STTS",
+"size":   1000 
+},
+{
+ "name": "ASTROPHY",
+"size":   1000 
+},
+{
+ "name": "BIO LAB 2",
+"size":   1000 
+},
+{
+ "name": "BIO LAB OP",
+"size":   1000 
+},
+{
+ "name": "BMB",
+"size":   1000 
+},
+{
+ "name": "CELL M BIO",
+"size":   1000 
+},
+{
+ "name": "CHEMISTRY",
+"size":   1000 
+},
+{
+ "name": "CL LAB S2",
+"size":   1000 
+},
+{
+ "name": "CL LAB SCI",
+"size":   1000 
+},
+{
+ "name": "ENVIR GEOS",
+"size":   1000 
+},
+{
+ "name": "GENETICS",
+"size":   1000 
+},
+{
+ "name": "GEOL SCI",
+"size":   1000 
+},
+{
+ "name": "INDUST MTH",
+"size":   1000 
+},
+{
+ "name": "MATH EDUC",
+"size":   1000 
+},
+{
+ "name": "MATHEMATIC",
+"size":   1000 
+},
+{
+ "name": "MMG",
+"size":   1000 
+},
+{
+ "name": "NEUROSCI",
+"size":   1000 
+},
+{
+ "name": "PHYSICS",
+"size":   1000 
+},
+{
+ "name": "PHYSIOLOGY",
+"size":   1000 
+},
+{
+ "name": "PLANT BIOL",
+"size":   1000 
+},
+{
+ "name": "STATISTICS",
+"size":   1000 
+},
+{
+ "name": "ZOOLOGY",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "PHD",
+"children": [
+ {
+ "name": "APPLD MATH",
+"size":   1000 
+},
+{
+ "name": "ASTROPHY",
+"size":   1000 
+},
+{
+ "name": "BCH/BMB/TX",
+"size":   1000 
+},
+{
+ "name": "BMB",
+"size":   1000 
+},
+{
+ "name": "C&M BIO TX",
+"size":   1000 
+},
+{
+ "name": "CELL M BIO",
+"size":   1000 
+},
+{
+ "name": "CHEM PHYS",
+"size":   1000 
+},
+{
+ "name": "CHEMISTRY",
+"size":   1000 
+},
+{
+ "name": "CM-ENV TOX",
+"size":   1000 
+},
+{
+ "name": "ECOL EVOL",
+"size":   1000 
+},
+{
+ "name": "ENV G-TOX",
+"size":   1000 
+},
+{
+ "name": "ENVIR GEOS",
+"size":   1000 
+},
+{
+ "name": "GENETIC TX",
+"size":   1000 
+},
+{
+ "name": "GENETICS",
+"size":   1000 
+},
+{
+ "name": "GEOL SCI",
+"size":   1000 
+},
+{
+ "name": "MATH EDUC",
+"size":   1000 
+},
+{
+ "name": "MATHEMATIC",
+"size":   1000 
+},
+{
+ "name": "MMG",
+"size":   1000 
+},
+{
+ "name": "NEURO SCI",
+"size":   1000 
+},
+{
+ "name": "NEUROSCI",
+"size":   1000 
+},
+{
+ "name": "PHYSICS",
+"size":   1000 
+},
+{
+ "name": "PHYSIOLOGY",
+"size":   1000 
+},
+{
+ "name": "PLANT BIOL",
+"size":   1000 
+},
+{
+ "name": "STATISTICS",
+"size":   1000 
+},
+{
+ "name": "ZOOL-E TOX",
+"size":   1000 
+},
+{
+ "name": "ZOOLOGY",
+"size":   1000 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "NURSING",
+"children": [
+ {
+ "name": "BSN",
+"children": [
+ {
+ "name": "NUR AOBSN",
+"size":   1000 
+},
+{
+ "name": "NUR RNBSN",
+"size":   1000 
+},
+{
+ "name": "NUR RNBSN2",
+"size":   1000 
+},
+{
+ "name": "NUR TBSN",
+"size":   1000 
+},
+{
+ "name": "NUR TBSN2",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "DNP",
+"children": [
+ {
+ "name": "NUR DNP",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MSN",
+"children": [
+ {
+ "name": "NUR MSN NA",
+"size":   1000 
+},
+{
+ "name": "NUR MSN NP",
+"size":   1000 
+},
+{
+ "name": "NUR MSNCNS",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "PHD",
+"children": [
+ {
+ "name": "NUR PHD",
+"size":   1000 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "OSTEO MED",
+"children": [
+ {
+ "name": "BS",
+"children": [
+ {
+ "name": "OSTEO MED",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "D.O.",
+"children": [
+ {
+ "name": "O MED-ECP",
+"size":   1000 
+},
+{
+ "name": "O MED-MSTP",
+"size":   1000 
+},
+{
+ "name": "O MED/MBA",
+"size":   1000 
+},
+{
+ "name": "OSTEO MED",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MS",
+"children": [
+ {
+ "name": "BMB",
+"size":   1000 
+},
+{
+ "name": "INTEG PHRM",
+"size":   1000 
+},
+{
+ "name": "L RES PHM",
+"size":   1000 
+},
+{
+ "name": "MICROBIOL",
+"size":   1000 
+},
+{
+ "name": "PHRM & TOX",
+"size":   1000 
+},
+{
+ "name": "PHYSIOLOGY",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "PHD",
+"children": [
+ {
+ "name": "BMB",
+"size":   1000 
+},
+{
+ "name": "MMG",
+"size":   1000 
+},
+{
+ "name": "PHRM & TOX",
+"size":   1000 
+},
+{
+ "name": "PHYSIOLOGY",
+"size":   1000 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "ResArtHum",
+"children": [
+ {
+ "name": "BA",
+"children": [
+ {
+ "name": "ARTS & HUM",
+"size":   1000 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "SOCIAL SCI",
+"children": [
+ {
+ "name": "BA",
+"children": [
+ {
+ "name": "ANTHRPOLGY",
+"size":   1000 
+},
+{
+ "name": "CHILD DEVL",
+"size":   1000 
+},
+{
+ "name": "CRIM JUST",
+"size":   1000 
+},
+{
+ "name": "EARLY C ED",
+"size":   1000 
+},
+{
+ "name": "ECONOMICS",
+"size":   1000 
+},
+{
+ "name": "GLOBAL-SS",
+"size":   1000 
+},
+{
+ "name": "HISTORY",
+"size":   1000 
+},
+{
+ "name": "HM DEV FS",
+"size":   1000 
+},
+{
+ "name": "HST EDUC",
+"size":   1000 
+},
+{
+ "name": "HUMAN GEOG",
+"size":   1000 
+},
+{
+ "name": "INT S S ED",
+"size":   1000 
+},
+{
+ "name": "INT SOC SC",
+"size":   1000 
+},
+{
+ "name": "PO SC-PLAW",
+"size":   1000 
+},
+{
+ "name": "POL SCI",
+"size":   1000 
+},
+{
+ "name": "PSYCHOLOGY",
+"size":   1000 
+},
+{
+ "name": "PUBLIC PL",
+"size":   1000 
+},
+{
+ "name": "SOC WORK",
+"size":   1000 
+},
+{
+ "name": "SOCIOLOGY",
+"size":   1000 
+},
+{
+ "name": "WORLD POL",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "BS",
+"children": [
+ {
+ "name": "ANTHRPOLGY",
+"size":   1000 
+},
+{
+ "name": "ECONOMICS",
+"size":   1000 
+},
+{
+ "name": "ENVIR GEOG",
+"size":   1000 
+},
+{
+ "name": "GEOG INFO",
+"size":   1000 
+},
+{
+ "name": "GLOBAL-SS",
+"size":   1000 
+},
+{
+ "name": "HM DEV FS",
+"size":   1000 
+},
+{
+ "name": "INT SOC SC",
+"size":   1000 
+},
+{
+ "name": "PSYCHOLOGY",
+"size":   1000 
+},
+{
+ "name": "SOCIOLOGY",
+"size":   1000 
+},
+{
+ "name": "URBAN REGN",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MA",
+"children": [
+ {
+ "name": "ANTHRPLOGY",
+"size":   1000 
+},
+{
+ "name": "ECONOMICS",
+"size":   1000 
+},
+{
+ "name": "FMLY SERV",
+"size":   1000 
+},
+{
+ "name": "HISTORY",
+"size":   1000 
+},
+{
+ "name": "POL SCI",
+"size":   1000 
+},
+{
+ "name": "PROF APPL",
+"size":   1000 
+},
+{
+ "name": "PROG EVAL",
+"size":   1000 
+},
+{
+ "name": "PSYCHOLOGY",
+"size":   1000 
+},
+{
+ "name": "SOCIOLOGY",
+"size":   1000 
+},
+{
+ "name": "YOUTH DEVL",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MHRL",
+"children": [
+ {
+ "name": "HM RES LBR",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MIPS",
+"children": [
+ {
+ "name": "INTL PLAN",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MPP",
+"children": [
+ {
+ "name": "PUBL PLCY",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MS",
+"children": [
+ {
+ "name": "CHILD DEV",
+"size":   1000 
+},
+{
+ "name": "CJ NET JA",
+"size":   1000 
+},
+{
+ "name": "CJ NET PRG",
+"size":   1000 
+},
+{
+ "name": "CRIM JUST",
+"size":   1000 
+},
+{
+ "name": "FORENSIC S",
+"size":   1000 
+},
+{
+ "name": "GEOGRAPHY",
+"size":   1000 
+},
+{
+ "name": "HUMAN DEVL",
+"size":   1000 
+},
+{
+ "name": "JUDICIAL A",
+"size":   1000 
+},
+{
+ "name": "LAW INTELL",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MSW",
+"children": [
+ {
+ "name": "CL SOC WK1",
+"size":   1000 
+},
+{
+ "name": "CL SOC WK2",
+"size":   1000 
+},
+{
+ "name": "ORG&CMTY 1",
+"size":   1000 
+},
+{
+ "name": "ORG&CMTY 2",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MURP",
+"children": [
+ {
+ "name": "UR&REGNL",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "PHD",
+"children": [
+ {
+ "name": "ANTHRPOLGY",
+"size":   1000 
+},
+{
+ "name": "CHICANO/LA",
+"size":   1000 
+},
+{
+ "name": "CRIM JUST",
+"size":   1000 
+},
+{
+ "name": "ECONOMICS",
+"size":   1000 
+},
+{
+ "name": "GEOGRAPHY",
+"size":   1000 
+},
+{
+ "name": "HISTORY",
+"size":   1000 
+},
+{
+ "name": "HR LBR REL",
+"size":   1000 
+},
+{
+ "name": "HUMAN DEVL",
+"size":   1000 
+},
+{
+ "name": "INDUS R HR",
+"size":   1000 
+},
+{
+ "name": "POL SCI",
+"size":   1000 
+},
+{
+ "name": "PSYCHOLOGY",
+"size":   1000 
+},
+{
+ "name": "SOCIAL WRK",
+"size":   1000 
+},
+{
+ "name": "SOCIOLOGY",
+"size":   1000 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "VET MED",
+"children": [
+ {
+ "name": "BS",
+"children": [
+ {
+ "name": "VET MED",
+"size":   1000 
+},
+{
+ "name": "VET TECH",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "DVM",
+"children": [
+ {
+ "name": "V MED-MSTP",
+"size":   1000 
+},
+{
+ "name": "VET M-ECP",
+"size":   1000 
+},
+{
+ "name": "VET MED",
+"size":   1000 
+},
+{
+ "name": "VET MED-Y3",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "MS",
+"children": [
+ {
+ "name": "COMP MED",
+"size":   1000 
+},
+{
+ "name": "FD SAFETY",
+"size":   1000 
+},
+{
+ "name": "INTEG PHRM",
+"size":   1000 
+},
+{
+ "name": "L RES PHM",
+"size":   1000 
+},
+{
+ "name": "LGE ANIMAL",
+"size":   1000 
+},
+{
+ "name": "MICROBIOL",
+"size":   1000 
+},
+{
+ "name": "PATHOBIOL",
+"size":   1000 
+},
+{
+ "name": "PHRM & TOX",
+"size":   1000 
+},
+{
+ "name": "PHYSIOLOGY",
+"size":   1000 
+},
+{
+ "name": "SM AN CL S",
+"size":   1000 
+} 
+] 
+},
+{
+ "name": "PHD",
+"children": [
+ {
+ "name": "C MED-TOX",
+"size":   1000 
+},
+{
+ "name": "COMP MED",
+"size":   1000 
+},
+{
+ "name": "LGE ANIMAL",
+"size":   1000 
+},
+{
+ "name": "MICRO-E TX",
+"size":   1000 
+},
+{
+ "name": "MICROBIOL",
+"size":   1000 
+},
+{
+ "name": "PATHOBIOL",
+"size":   1000 
+},
+{
+ "name": "PHARM&TOX",
+"size":   1000 
+},
+{
+ "name": "PHRM & TOX",
+"size":   1000 
+},
+{
+ "name": "PHYSIOLOGY",
+"size":   1000 
+},
+{
+ "name": "PTHBIOL TX",
+"size":   1000 
+} 
+] 
+} 
+] 
+} 
+] 
+}
